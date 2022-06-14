@@ -1,6 +1,4 @@
 package cn.gdut.vhr.exception;
-
-import cn.gdut.vhr.model.RespBean;
 import cn.gdut.vhr.model.RespBean;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
